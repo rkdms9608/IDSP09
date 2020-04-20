@@ -1,0 +1,22 @@
+* {
+font-family: Helvetica, sans-serif;
+}
+ 
+.btn {
+    color: #000000;
+    background: #ffffff;
+    border: 0.5px solid #E2E4EB;
+    height: 40px;
+    width: 300px;
+    margin: 0px 15px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    margin: 20px;
+}
+
+.btn:hover {
+    background: #E2E4EB;
+}

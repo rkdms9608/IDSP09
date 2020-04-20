@@ -1,0 +1,40 @@
+* {
+    font-family: Helvetica, sans-serif;
+}
+     
+    .nextbtn01 {
+        color: #ffffff;
+        background: #F7AC70;
+        height: 40px;
+        width: 400px;
+        margin: 0px 15px;
+        border-radius: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        margin: 20px;
+    }
+
+    .nextbtn02 {
+        color: #ffffff;
+        background: #82C5CD;
+        height: 40px;
+        width: 400px;
+        margin: 0px 15px;
+        border-radius: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        margin: 20px;
+    }
+    
+    
+    .nextbtn01:hover {
+        background: #E2E4EB;
+    }
+
+    .nextbtn02:hover {
+        transform: scale(0.5);
+    }

@@ -19,7 +19,7 @@ import BodyText from '../../comps/bodytext-comps';
 
 const TestPage = () => {
 
-    return <div id="testapp" >
+    <div id="testapp" >
         <Square />
         <HeaderText text ="Personality Test" fontSize={50}/>
         <BodyText text ="Personality tests make it easier to meet people with similar characteristics to you." fontSize={15}/>
@@ -27,7 +27,5 @@ const TestPage = () => {
     </div>
  
 }
-
-
 
 export default TestPage;

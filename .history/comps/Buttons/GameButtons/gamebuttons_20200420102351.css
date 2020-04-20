@@ -1,0 +1,64 @@
+* {
+    font-family: Helvetica, sans-serif;
+}
+     
+.gamebtn01 {
+    color: #000000;
+    background: #ffffff;
+    border: 1px solid rgba(96, 128, 96, 0.151);
+    height: 40px;
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.gamebtn02 {
+    color: #ffffff;
+    background: #E2E4EB;
+    height: 40px;
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.gamebtn03 {
+    color: #000000;
+    background: #ffffff;
+    height: 40px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.gamebtn04 {
+    color: #000000;
+    background: #ffffff;
+    height: 40px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.nextbtn01:hover {
+    transform: scale(0.97);
+}
+
+.nextbtn02:hover {
+    transform: scale(0.97);
+}

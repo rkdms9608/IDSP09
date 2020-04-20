@@ -21,7 +21,7 @@ export const ContinueButton = () => (
   <NextButton />
 );
 
-export const MiniGameButton = () => (
+export const GameButton = () => (
   <GameButton />
 );
 

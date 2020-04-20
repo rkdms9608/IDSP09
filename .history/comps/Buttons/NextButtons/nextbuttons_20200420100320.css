@@ -1,0 +1,38 @@
+* {
+    font-family: Helvetica, sans-serif;
+    }
+     
+    .nextbtn01 {
+        color: #ffffff;
+        background: #F7AC70;
+        border: 0.5px solid #E2E4EB;
+        height: 40px;
+        width: 200px;
+        margin: 0px 15px;
+        border-radius: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        margin: 20px;
+    }
+
+    .nextbtn02 {
+        color: #ffffff;
+        background: #82C5CD;
+        border: 0.5px solid #E2E4EB;
+        height: 40px;
+        width: 200px;
+        margin: 0px 15px;
+        border-radius: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        margin: 20px;
+    }
+    
+    
+    .btn:hover {
+        background: #E2E4EB;
+    }

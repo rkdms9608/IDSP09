@@ -1,0 +1,14 @@
+.btn {
+    background: #d8d8dd;
+    height: 44px;
+    width: 200px;
+    margin: 0 16px;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    
+    border: 1px solid rgba(96, 128, 96, 0.151);
+    margin: 60px;
+}

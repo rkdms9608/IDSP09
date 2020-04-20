@@ -1,0 +1,111 @@
+* {
+    font-family: Helvetica, sans-serif;
+}
+     
+.gamebtn01 {
+    color: #000000;
+    background: #ffffff;
+    border: 1px solid #E2E4EB;
+    height: 40px;
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.gamebtn02 {
+    color: #000000;
+    background: #E2E4EB;
+    border: 1px solid #E2E4EB;
+    height: 40px;
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.gamebtn03 {
+    color: #000000;
+    background: #ffffff;
+    border: 1px solid #E2E4EB;
+    font-size: 14px;
+    border-radius: 30px;
+    height: 40px;
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.gamebtn04 {
+    color: #000000;
+    background: #ffffff;
+    border-radius: 30px;
+    border: 1px solid #E2E4EB;
+    font-size: 12px;
+    height: 40px;
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+/* .gamebtn01:hover {
+    letter-spacing: 0.125rem;
+} */
+
+.gamebtn01:hover {
+  
+    
+}
+
+
+
+.gamebtn03 {
+    background-color:white;
+    columns: #000000;;
+    padding:25px 35px;
+    font-size:28px;
+    margin-left:5%;
+    cursor:pointer;
+    transition:0.4s;
+    margin-top:5%;
+    border:3px solid #F7AC70;
+}
+
+@keyframes hover {
+    25% {
+        border-left:3px solid #94CAD1;
+    }
+    50% {
+         border-bottom:3px solid #94CAD1;
+    }
+    75% {
+        border-right:3px solid #94CAD1;
+    }
+    100% {
+        border-top:3px solid #94CAD1;
+    }
+}
+
+.gamebtn03:hover {
+    animation:hover 2s;
+    animation-iteration-count:infinite;
+}
+.gamebtn03:focus {
+    border-top-right-radius:20px;
+    border-bottom-left-radius:20px;
+}
+    
