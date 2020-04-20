@@ -1,0 +1,30 @@
+@keyframes gradient {
+    0% {background-position: 0%}
+    100% {background-position: 100%}
+}
+
+.buttons {
+    background-color: #9cc25b;
+    width:150px;
+    height:40px;
+    border-radius: 12px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    display:inline-flex;
+    cursor: pointer;
+    color: #fff;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+
+}
+
+
+.button_inner::selection {
+    background:none;
+    color:none;
+}
+
+.start_logo img {
+    width:200px;
+    object-fit:contain;
+}
