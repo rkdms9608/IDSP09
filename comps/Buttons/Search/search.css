@@ -1,0 +1,20 @@
+.search{
+    position: relative;
+    align-items: center;
+}
+.searchInput{
+    border-radius: 5px;
+    border:1px solid rgb(240, 238, 238);
+    background-color:#B5B1B1 , opacity 20%;
+    padding: 3px;
+
+}
+
+button {
+    background:none;
+    border:none;
+    margin-left: 5px;
+    margin:0;
+    padding:0;
+    cursor: pointer;
+}

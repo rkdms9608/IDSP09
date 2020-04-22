@@ -1,0 +1,11 @@
+.status{
+    position: relative;
+    width: 100px;
+    border-radius: 10px;
+    border:1px solid yellow;
+    padding-left: 10px !important;
+    padding: 2px;
+    color: grey;
+    font-size: 11px;
+    font-family: Helvetica;
+}
